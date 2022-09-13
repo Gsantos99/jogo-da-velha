@@ -1,4 +1,4 @@
 # jogo-da-velha
-Jogo da velha feito com JavaScript.
+Jogo da velha feito com HTML, CSS e JavaScript.
 
-## Em construção...
+## :warning: Em construção...
